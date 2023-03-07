@@ -30,7 +30,7 @@ public class InsertARecord {
      *          |      title        |        artist         |
      *          ---------------------------------------------
      *          |'Let it be'        |'Beatles'              |
-     *          |'Hotel California' |'Eagles'               |
+     *          |'Hotel California' |'Hotel California'              |
      *          |'Kashmir'          |'Led Zeppelin'         |
      *
      * Do not change anything in this code. You should write your sql statement on a single line in the
